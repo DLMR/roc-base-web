@@ -2,10 +2,10 @@
   "name": "{{{ appName }}}",
   "version": "1.0.0",
   "description": "{{{ appDesc }}}",
-  "roc": "~1.0.0-alpha1",
+  "roc": "1.0.0-alpha4",
   "author": "{{{ appAuthor }}}",
   "license": "{{{ appLicense }}}",
   "dependencies": {
-    "roc-web": "~1.0.0"
+    "roc-web": "*"
   }
 }
